@@ -1,4 +1,6 @@
 wavs/*
+*.sh
+youtube-dl
 
 .*
 !.gitignore
